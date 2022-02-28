@@ -1,3 +1,3 @@
 # MSPRjava
 
-cyka blyat
+pipeline
