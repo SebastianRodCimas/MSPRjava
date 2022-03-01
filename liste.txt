@@ -8,4 +8,4 @@ lampe	Lampe Torche
 kit	Kit oreillette
 Taser	Tasers
 lacrymo Bombes lacrymogènes
-mikado
+Le fichier va être modifier
