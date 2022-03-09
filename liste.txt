@@ -8,4 +8,3 @@ lampe	Lampe Torche
 kit	Kit oreillette
 Taser	Tasers
 lacrymo Bombes lacrymogènes
-Le fichier a été modifoé
